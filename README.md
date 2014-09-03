@@ -6,6 +6,8 @@ Digitale Ressourcen für das OK Lab Gießen
 ## Logo
 Das Logo steht mit schwarzem Text als `.svg` oder als `.png` zur Verfügung.
 
+![CFGI Logo SVG](cfgi-black.svg)
+
 
 ## Lizenz
 ```
