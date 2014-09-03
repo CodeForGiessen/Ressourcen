@@ -8,6 +8,7 @@ Das Logo steht mit schwarzem Text als `.svg` oder als `.png` zur Verfügung.
 
 ![CFGI Logo PNG](cfgi-black.png)
 
+(Das Logo ist eine modifizierte Version des *Code for Germany* Logos, die Lizensierung ist unklar und fällt nicht unter die `MIT License`.)
 
 ## Lizenz
 ```
